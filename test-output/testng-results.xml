@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36" started-at="2020-01-23T18:13:36 CET" finished-at="2020-01-23T18:13:36 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36" started-at="2020-01-23T18:13:36 CET" finished-at="2020-01-23T18:13:36 CET">
+      <class name="unit.ModifAdresseTest">
+        <test-method status="PASS" signature="ConseillerConnecteModfieAdresseAvecOuSansCondition()[pri:0, instance:unit.ModifAdresseTest@7ce6a65d]" name="ConseillerConnecteModfieAdresseAvecOuSansCondition" duration-ms="10" started-at="2020-01-23T18:13:36 CET" finished-at="2020-01-23T18:13:36 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConseillerConnecteModfieAdresseAvecOuSansCondition -->
+        <test-method status="PASS" signature="UnAbonneAvecAdressePrincileActiveEnFrance()[pri:0, instance:unit.ModifAdresseTest@7ce6a65d]" name="UnAbonneAvecAdressePrincileActiveEnFrance" duration-ms="1" started-at="2020-01-23T18:13:36 CET" finished-at="2020-01-23T18:13:36 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UnAbonneAvecAdressePrincileActiveEnFrance -->
+      </class> <!-- unit.ModifAdresseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
